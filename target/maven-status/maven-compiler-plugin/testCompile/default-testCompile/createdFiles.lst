@@ -1,0 +1,9 @@
+eBanking/Utilities/XLUtils.class
+eBanking/testCases/ValidatedLogin_TC02.class
+eBanking/testCases/Login_TC01.class
+eBanking/Utilities/ReadConfig.class
+eBanking/pageObjects/AddCustomerPage.class
+eBanking/testCases/AddCustomer_TC03.class
+eBanking/Utilities/Reporting.class
+eBanking/testCases/BaseClass.class
+eBanking/pageObjects/LoginPage.class

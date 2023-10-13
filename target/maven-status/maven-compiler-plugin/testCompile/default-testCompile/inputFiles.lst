@@ -1,0 +1,9 @@
+/Users/nikita98narwal/eclipse-workspace/E-Banking/src/test/java/eBanking/pageObjects/AddCustomerPage.java
+/Users/nikita98narwal/eclipse-workspace/E-Banking/src/test/java/eBanking/Utilities/XLUtils.java
+/Users/nikita98narwal/eclipse-workspace/E-Banking/src/test/java/eBanking/Utilities/ReadConfig.java
+/Users/nikita98narwal/eclipse-workspace/E-Banking/src/test/java/eBanking/Utilities/Reporting.java
+/Users/nikita98narwal/eclipse-workspace/E-Banking/src/test/java/eBanking/testCases/Login_TC01.java
+/Users/nikita98narwal/eclipse-workspace/E-Banking/src/test/java/eBanking/testCases/BaseClass.java
+/Users/nikita98narwal/eclipse-workspace/E-Banking/src/test/java/eBanking/pageObjects/LoginPage.java
+/Users/nikita98narwal/eclipse-workspace/E-Banking/src/test/java/eBanking/testCases/ValidatedLogin_TC02.java
+/Users/nikita98narwal/eclipse-workspace/E-Banking/src/test/java/eBanking/testCases/AddCustomer_TC03.java
